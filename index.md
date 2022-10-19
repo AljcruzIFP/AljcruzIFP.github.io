@@ -29,14 +29,14 @@ encargado del departamento de IT_
 
 ### Habilidades
 
-<sup>Mantenimiento de hardware</sup>
-<sup>Gestión de correos</sup>
-<sup>Administración de ofimática</sup>
-<sup>Seguridad de la información</sup>
-<sup>Administración de servidores</sup>
-<sup>Administración de proveedores</sup>
-<sup>Administración de inventario online</sup>
-<sup>Inglés</sup>
+- <sup>Mantenimiento de hardware</sup>
+- <sup>Gestión de correos</sup>
+- <sup>Administración de ofimática</sup>
+- <sup>Seguridad de la información</sup>
+- <sup>Administración de servidores</sup>
+- <sup>Administración de proveedores</sup>
+- <sup>Administración de inventario online</sup>
+- <sup>Inglés</sup>
 
 ### Estudios
 Cursando grado medio en Sistemas Microinformáticos y Redes(SMX)
