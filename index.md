@@ -20,7 +20,12 @@ Cursos online en _Mastermind_[^1]
 2. Hacking Ético
 3. Fundamentos Linux
 
+`Ejemplo de codigo:
 
+if 
+while
+
+`
 
 
 
