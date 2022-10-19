@@ -16,14 +16,20 @@
 1. Prácticas en NaIberia
    - 6 meses
      - Jornada completa
- _Único encargado del departamento de IT en una de las empresas
- punteras de transporte y logística en Catalunya_
+ 
+ <sub>Único encargado del departamento de IT en una de las empresas
+ punteras de transporte y logística en Catalunya</sub>
  
  2. Técnico informático en NaIberia
     - Actualmente
       - Jornada parcial
-_Contratado en la empresa donde realicé las prácticas, único
-encargado del departamento de IT_
+
+<sup>Contratado en la empresa donde realicé las prácticas, único
+encargado del departamento de IT</sup>
+
+### Habilidades
+
+
 
 ### Estudios
 Cursando grado medio en Sistemas Microinformáticos y Redes(SMX)
