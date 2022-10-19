@@ -17,19 +17,26 @@
    - 6 meses
      - Jornada completa
  
- <sub>Único encargado del departamento de IT en una de las empresas
- punteras de transporte y logística en Catalunya</sub>
+ _Único encargado del departamento de IT en una de las empresas
+ punteras de transporte y logística en Catalunya_
  
  2. Técnico informático en NaIberia
     - Actualmente
       - Jornada parcial
 
-<sup>Contratado en la empresa donde realicé las prácticas, único
-encargado del departamento de IT</sup>
+_Contratado en la empresa donde realicé las prácticas, único
+encargado del departamento de IT_
 
 ### Habilidades
 
-
+<sup>Mantenimiento de hardware</sup>
+<sup>Gestión de correos</sup>
+<sup>Administración de ofimática</sup>
+<sup>Seguridad de la información</sup>
+<sup>Administración de servidores</sup>
+<sup>Administración de proveedores</sup>
+<sup>Administración de inventario online</sup>
+<sup>Inglés</sup>
 
 ### Estudios
 Cursando grado medio en Sistemas Microinformáticos y Redes(SMX)
