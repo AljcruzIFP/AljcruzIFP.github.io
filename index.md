@@ -1,6 +1,9 @@
 ![Image](images/CVavatar.png)
 
 # Alejandro Cruz
+
+Joven estudiante de grado medio buscando trabajar en el sector de la seguridad de la información. Muy motivado y apasionado por el cambio en mi vida que supone y además de compaginar los estudios con un trabajo de administrador de sistemasa media jornada, estudio cursos online de temáticas como programación Python, Hacking Ético y Sistemas Linux en mi tiempo libre. Buscando dar el salto al sector de la seguridad mientras me preparo para realizar el certificado OSCP.
+
 ## Curriculum Vitae
 
 
