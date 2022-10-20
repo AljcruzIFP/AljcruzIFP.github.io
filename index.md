@@ -7,11 +7,10 @@ Joven estudiante de grado medio buscando trabajar en el sector de la seguridad d
 ## Curriculum Vitae
 
 
-
+### Información de contacto
 - **Teléfono: 666123456**
 - **Población: Barcelona**
 - **Email: ifp@formacion.es**
-
 
 
 ### Experiencia
